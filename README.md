@@ -41,16 +41,20 @@ This portfolio includes:
 *Postgraduate Certificate in Data Analytics for Business Decision Making (2024–2025)*  
 
 🎓 **Bachelor of Science**, India  
-*Graduated with 68.5%*
 
 ---
 
 ## 📈 Featured Projects
 
-1. **Heart Disease Prediction Dashboard – Power BI**
+1. **Heart Disease Prediction Dashboard**
    - Predictive modeling
    - Drill-through, bookmarks, dynamic visuals
    - User-friendly design
+
+2. **Coffee Cup Business Performance Dashboard**
+
+   -Data Preprocessing and Cleaning
+   -Dashboard Development, Data Modeling
 
 *More project details available on the website*
 
