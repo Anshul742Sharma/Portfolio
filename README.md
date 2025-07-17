@@ -1,55 +1,78 @@
 # Portfolio
-# 🌐 Anshul Sharma - Portfolio
+# 💼 Anshul Sharma – Professional Portfolio
 
-Welcome to my GitHub repository! This repository complements my [personal portfolio website](https://anshulsharmajaland.wixsite.com/myportfolio), where I showcase my professional journey, academic background, skill set, and selected works.
+Welcome to my personal portfolio repository! I’m Anshul Sharma, a passionate and driven individual with experience in **data analytics**, **business decision-making**, and **ethical leadership**. I’m currently pursuing a Postgraduate Certificate in Data Analytics for Business Decision Making at Durham College (Canada), and I will soon begin an MBA in Technology, Innovation, and Entrepreneurship at International Business University, Toronto.
 
-## 📄 About Me
+## 🌐 Live Portfolio Website
 
-Hi, I'm **Anshul Sharma**, a passionate and motivated individual with a keen interest in business, technology, and professional development. My portfolio reflects my academic journey, hands-on projects, certifications, and relevant experiences that shape my career.
+🔗 [Click here to view my live portfolio](https://anshulsharmajaland.wixsite.com/myportfolio)
 
-## 🧰 Portfolio Structure
-
-My portfolio is organized into the following key sections:
-
-### 1. **About Me**
-A brief overview of who I am, my interests, values, and what drives me.
-
-### 2. **Resume**
-A detailed breakdown of my academic qualifications, professional experiences, certifications, and skills.
-
-### 3. **Projects**
-Showcase of selected academic and personal projects demonstrating my problem-solving and creative abilities. Visit my portfolio to view visual demonstrations and documentation.
-
-### 4. **Certifications**
-A collection of the certifications I have earned that demonstrate my ongoing commitment to learning and improvement.
-
-## 🔗 Website Link
-
-Visit my live portfolio here:  
-👉 [anshulsharmajaland.wixsite.com/myportfolio](https://anshulsharmajaland.wixsite.com/myportfolio)
-
-## 📷 Suggested Media (for GitHub repo or documentation)
-
-You can add the following types of images to the repo or project folders:
-- Profile photo or professional headshot
-- Screenshots of the portfolio homepage and individual sections
-- Thumbnails of projects or certificates
-- Icons or visuals representing your skills/tools (e.g., Excel, Canva, Trello, PowerPoint)
-
-Free image resources:
-- [Unsplash](https://unsplash.com/)
-- [Pexels](https://www.pexels.com/)
-- [Pixabay](https://pixabay.com/)
-- [Freepik](https://www.freepik.com/)
-
-## 🚀 Future Plans
-
-- Add detailed case studies for each project
-- Link downloadable resume (PDF)
-- Include blog/articles on topics of interest
-- Regularly update certifications and skills
+This portfolio includes:
+- About Me Section
+- Project Showcase
+- Skills & Tools
+- Business Impact
+- Contact Information
 
 ---
 
-Thank you for visiting my GitHub!  
-Feel free to connect with me or explore more through my [portfolio website](https://anshulsharmajaland.wixsite.com/myportfolio).
+## 🚀 Skills Highlight
+
+### 🔢 Data & Analytics
+- Excel, SQL, Power BI, Tableau
+- Python (Pandas, NumPy, Matplotlib)
+- Predictive Modeling & Data Storytelling
+
+### 💼 Business & Management
+- Ethical Leadership
+- Critical Decision-Making
+- Business Strategy
+
+### 💡 Tools & Platforms
+- Microsoft Power BI
+- Wix (Website Builder)
+- Git & GitHub
+
+---
+
+## 📚 Education
+
+🎓 **Durham College**, Ontario  
+*Postgraduate Certificate in Data Analytics for Business Decision Making (2024–2025)*  
+
+🎓 **Bachelor of Science**, India  
+*Graduated with 68.5%*
+
+---
+
+## 📈 Featured Projects
+
+1. **Heart Disease Prediction Dashboard – Power BI**
+   - Predictive modeling
+   - Drill-through, bookmarks, dynamic visuals
+   - User-friendly design
+
+*More project details available on the website*
+
+---
+
+## 📬 Contact Me
+
+📧 Email: kapilansh.work@gamil.com  
+🌍 Location: Toronto, Ontario, Canada  
+📱 LinkedIn: https://www.linkedin.com/in/sharmaanshul10/  
+
+---
+
+## 🤝 Let's Connect
+
+Thank you for visiting my portfolio! I’m actively looking for opportunities in **data analytics**, **business strategy**, and **technology consulting**. Let’s connect and explore potential collaborations.
+
+---
+
+## 📌 Note
+
+This GitHub repository is maintained as a professional reference to accompany my live Wix portfolio. Since Wix does not provide source files, this repository does not include the actual website code.
+
+
+
