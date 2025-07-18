@@ -62,7 +62,7 @@ This portfolio includes:
 
 ## 📬 Contact Me
 
-📧 Email: kapilansh.work@gamil.com  
+📧 Email: kapilansh.work@gmail.com  
 🌍 Location: Toronto, Ontario, Canada  
 📱 LinkedIn: https://www.linkedin.com/in/sharmaanshul10/  
 
@@ -71,12 +71,6 @@ This portfolio includes:
 ## 🤝 Let's Connect
 
 Thank you for visiting my portfolio! I’m actively looking for opportunities in **data analytics**, **business strategy**, and **technology consulting**. Let’s connect and explore potential collaborations.
-
----
-
-## 📌 Note
-
-This GitHub repository is maintained as a professional reference to accompany my live Wix portfolio. Since Wix does not provide source files, this repository does not include the actual website code.
 
 
 
